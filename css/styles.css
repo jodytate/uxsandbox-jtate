@@ -1,0 +1,15 @@
+html, body {
+	background-color: #fff;
+	color: #000;
+}
+
+body {
+    margin: 0 auto 0 auto;
+    width: 500px;
+}
+
+p {
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    font-size: 3em;
+    text-align: center;
+}
